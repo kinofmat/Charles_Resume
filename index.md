@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Ethan Charles's Resume
 ---
 # Ethan Charles
