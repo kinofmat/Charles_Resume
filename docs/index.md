@@ -8,6 +8,7 @@ title: Ethan Charles's Resume
 (541) 204-1644
 | <a href="ethan.charles02@gmail.com">ethan.charles02@gmail.com</a>
 | <a href="https://github.com/ethancharles02">GitHub</a>
+| <a href="https://www.linkedin.com/in/ethancharles/">LinkedIn</a>
 <!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
 </div>
 
