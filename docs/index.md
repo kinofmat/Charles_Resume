@@ -25,6 +25,7 @@ __Brigham Young University – Idaho__, Rexburg, ID
 
 `September 2016 - June 2020`
 
+ <!--- For now this is ok. Just wanted to note as you get further into college/gradute take your high school out. Include any languages or programs in a separate category. Maybe showcase any you have 3+ years of experience in. -->
 __Willamette High School__, Eugene, Oregon
 - Computer Science Pathway	
 - GPA: 3.8
@@ -35,6 +36,8 @@ ____
 ## Related Experience
 
 ### Projects
+
+ <!--- Very good section to show off some of your personal projects relevent to a future job. -->
 
 `March 2020 - May 2020`
 
@@ -67,18 +70,26 @@ ____
 
 `December 2020 - May 2021`
 
+ <!--- I would like to see more description in your previous employment here. How are these revalent? -->
+ <!--- Try to illustrate how the skills you learned at these jobs could be applied to a future career involving computer science -->
+ 
 __Gordon, Aylworth & Tami, P.C.__, Eugene, Oregon	
 - Prepared garnishment documents for the attorneys
+ <!--- If applicable to the job, maybe something pertaining to using design cycle like process of "listening to the attorney needs, researching, creating garnishment documents, and repeating as necessary, to create high quality results." -->
 
 `February 2020 - April 2020`
 
 __Little Caesers__, Eugene, Oregon
-- Food Prep
+- Food Prep 
+ <!--- Again, if applicable to the job, could try to impliment something along the lines of "Carefully recorded customer requirements and created products based off of their criteria." -->
 
 `September 2016 - January 2019`
 
+
 __Willamette School Cafeteria__, Eugene, Oregon
 - Prepared food as well as performing various cleaning duties as a student worker. Worked for 3 years from first year of high school to third year
+ <!--- "Sought out items to be cleaned when there was down time" -->
+
 Volunteer Experience
 
 `May 2010 - September 2018`
